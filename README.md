@@ -8,19 +8,19 @@
 
 ## 📖 About me
 
-* 💻 I'm a full stack web developer and I've 5+ years of experience in developing Web-based solutions for my clients to grow their business
-* 📺 I make web and app development
-* 📺  I am proficient in PHP, Laravel, React JS, Android, iOS, and AWS based technologies.
+* 💻 I'm a full stack developer and I've 5+ years of experience in developing Web and App based solutions for my clients to grow their business
+* 📺 I make app and web development
+* 📺 I am proficient in React Native, ReactJs, Android, NodeJs and NextJs
 
 
 ## 📖 Core skills
 
-* 🔭 Frontend : React.js, Angular
-* 🔭 Backend : PHP / Laravel, CI, Node.js
-* 📱  Mobile : Android, iOS, Java, Kotlin, Swift
-* 🌱 Libraries : Bootstrap, TailwindCSS, Material UI, AntD
-* 💬 Database : MySQL, MongoDB, PostgreSQL, SQLite
-* 📫 Languages : JavaScript, TypeScript, HTML5, CSS/SCSS/LESS, PHP
+* 🔭 Frontend : React Native, ReactJs, Android and NextJs
+* 🔭 Backend : NodeJs
+* 📱 Mobile : React Native, Android, iOS, JavScript, TypeScreipt, Java, Kotlin
+* 🌱 Libraries : Redux, Material UI, express
+* 💬 Database : MySQL, PostgreSQL, SQLite
+* 📫 Languages : JavaScript, TypeScript, HTML5, CSS/SCSS
 
 
 
