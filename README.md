@@ -24,10 +24,10 @@
 
 
 
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/rhdholariya?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/HpSurani1997?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
 <p align="left">
-  <a href="https://github.com/rhdholariya?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
+  <a href="https://github.com/HpSurani1997?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
 </p>
 
 ## 👨‍💻 Languages and Tools:
