@@ -22,6 +22,6 @@
 * 💬 Database : MySQL, PostgreSQL, SQLite
 * 📫 Languages : JavaScript, TypeScript, HTML5, CSS/SCSS
 
-
+[![Hiren's GitHub stats](https://github-readme-stats.vercel.app/api?username=HpSurani1997)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/HpSurani1997?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
