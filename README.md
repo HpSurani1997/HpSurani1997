@@ -22,6 +22,4 @@
 * 💬 Database : MySQL, PostgreSQL, SQLite
 * 📫 Languages : JavaScript, TypeScript, HTML5, CSS/SCSS
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HpSurani1997)](https://git.io/streak-stats)
-
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/HpSurani1997?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
